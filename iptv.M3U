@@ -1,0 +1,95 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports News UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=44&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN SPORTS NEWS UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=22198&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports Global UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=43&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN SPORTS GLOBAL 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=22199&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN UHD 2160P
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=190369&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 1 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114053&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 1 UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=3854&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 2 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114052&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 2 UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=3853&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114050&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=3851&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 4 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114049&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 4 UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=3850&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 5 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114048&extension=ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN MOVIES 4K 1
+http://supaapp.xyz/live/462738737337/352672622626/319672.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN MOVIES 4K 2
+http://supaapp.xyz/live/462738737337/352672622626/319673.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN MOVIES 4K 3
+http://supaapp.xyz/live/462738737337/352672622626/319674.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN MOVIES 4K 4
+http://supaapp.xyz/live/462738737337/352672622626/319675.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN SERIES 4K 1
+http://supaapp.xyz/live/462738737337/352672622626/319676.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN SERIES 4K 2
+http://supaapp.xyz/live/462738737337/352672622626/319677.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN DRAMA 4K
+http://supaapp.xyz/live/462738737337/352672622626/319678.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN FOX MOVIES 4K
+http://supaapp.xyz/live/462738737337/352672622626/319679.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN FOX MOV ACTION 4K
+http://supaapp.xyz/live/462738737337/352672622626/319680.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN FOX LIFE 4K
+http://supaapp.xyz/live/462738737337/352672622626/319681.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN BBC EARTH 4K
+http://supaapp.xyz/live/462738737337/352672622626/319682.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN GORMENT 4K
+http://supaapp.xyz/live/462738737337/352672622626/319683.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN FATAFEAT 4K
+http://supaapp.xyz/live/462738737337/352672622626/319684.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN BARAEAM 4K
+http://supaapp.xyz/live/462738737337/352672622626/319685.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN JEEM 4K
+http://supaapp.xyz/live/462738737337/352672622626/319686.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Movies 1 HD
+http://supaapp.xyz/live/462738737337/352672622626/319687.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Movies 2 HD
+http://supaapp.xyz/live/462738737337/352672622626/319688.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Movies 3 HD
+http://supaapp.xyz/live/462738737337/352672622626/319689.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Movies 4 HD
+http://supaapp.xyz/live/462738737337/352672622626/319690.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Series 1 HD
+http://supaapp.xyz/live/462738737337/352672622626/319691.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Series 2 HD
+http://supaapp.xyz/live/462738737337/352672622626/319692.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Drama 1 HD
+http://supaapp.xyz/live/462738737337/352672622626/319693.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Fox Movies HD
+http://supaapp.xyz/live/462738737337/352672622626/319694.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Fox Action Movies HD
+http://supaapp.xyz/live/462738737337/352672622626/319695.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Gourmet HD
+http://supaapp.xyz/live/462738737337/352672622626/319696.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN jeem HD
+http://supaapp.xyz/live/462738737337/352672622626/319697.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Baraem HD
+http://supaapp.xyz/live/462738737337/352672622626/319698.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Fox Life HD
+http://supaapp.xyz/live/462738737337/352672622626/319700.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Nat Geo HD
+http://supaapp.xyz/live/462738737337/352672622626/319701.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Nat geo Wild HD
+http://supaapp.xyz/live/462738737337/352672622626/319702.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Star World HD
+http://supaapp.xyz/live/462738737337/352672622626/319703.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN Star Movies HD
+http://supaapp.xyz/live/462738737337/352672622626/319704.ts
+#EXTINF:-1 group-title="beIN Entertainment",beIN BBC Earth HD
+http://supaapp.xyz/live/462738737337/352672622626/319705.ts
