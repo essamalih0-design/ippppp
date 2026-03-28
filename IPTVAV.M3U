@@ -1,0 +1,104 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
+#EXTINF:-1 tvg-name="beIN Sports News UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports News UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=44&extension=ts
+
+#EXTINF:-1 tvg-name="beIN SPORTS NEWS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN SPORTS NEWS UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=22198&extension=ts
+
+#EXTINF:-1 tvg-name="beIN Sports Global UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports Global UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=43&extension=ts
+
+#EXTINF:-1 tvg-name="beIN SPORTS GLOBAL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN SPORTS GLOBAL 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=22199&extension=ts
+
+#EXTINF:-1 tvg-name="beIN UHD 2160P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN UHD 2160P
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=190369&extension=ts
+
+#EXTINF:-1 tvg-name="beIN Sports 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 1 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114053&extension=ts
+
+#EXTINF:-1 tvg-name="beIN Sports 1 G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 1 G
+http://ygo2025.top/live/8603954198/2330968616/483654.ts
+
+#EXTINF:-1 tvg-name="beIN Sports 1 BEE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 1 BEE
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=3854&extension=ts
+
+#EXTINF:-1 tvg-id="60958" tvg-name="BEIN SPORTS 1 SS" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 FHD
+http://sansatplus.net:88/live/7824227552/0360338297/60958.ts
+
+#EXTINF:-1 tvg-name="beIN Sports 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 2 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114052&extension=ts
+
+#EXTINF:-1 tvg-name="beIN Sports 2 BEE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 2 BEE
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=3853&extension=ts
+
+#EXTINF:-1 tvg-name="beIN Sports 2 G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 2 G
+http://ygo2025.top/live/8603954198/2330968616/483657.ts
+
+#EXTINF:-1 tvg-id="28751" tvg-name="BEIN SPORTS 2 SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 FHD
+http://sansatplus.net:88/live/7824227552/0360338297/28751.ts
+
+#EXTINF:-1 tvg-name="beIN Sports 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114050&extension=ts
+
+#EXTINF:-1 tvg-name="beIN Sports 3 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=3851&extension=ts
+
+#EXTINF:-1 tvg-id="60959" tvg-name="BEIN SPORTS 3 SS" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 FHD
+http://sansatplus.net:88/live/7824227552/0360338297/60959.ts
+
+#EXTINF:-1 tvg-name="beIN Sports 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 4 4K
+PASTE_YOUR_STREAM_HERE
+
+#EXTINF:-1 tvg-name="beIN Sports 4 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 4 UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=3850&extension=ts
+
+#EXTINF:-1 tvg-id="36301" tvg-name="BEIN SPORTS 4 SS" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4 FHD
+http://sansatplus.net:88/live/7824227552/0360338297/36301.ts
+
+#EXTINF:-1 tvg-name="beIN Sports 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 5 4K
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=114048&extension=ts
+
+#EXTINF:-1 tvg-id="36302" tvg-name="BEIN SPORTS 5 SS" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS HD",BEIN SPORTS 5 FHD
+http://sansatplus.net:88/live/7824227552/0360338297/36302.ts
+
+#EXTINF:-1 tvg-id="36300" tvg-name="BEIN SPORTS 6 SS" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS HD",BEIN SPORTS 6 FHD
+http://sansatplus.net:88/live/7824227552/0360338297/36300.ts
+
+#EXTINF:-1 tvg-name="beIN MOVIES 4K 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN Entertainment",beIN MOVIES 4K 1
+http://supaapp.xyz/live/462738737337/352672622626/319672.ts
+
+#EXTINF:-1 tvg-name="beIN MOVIES 4K 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN Entertainment",beIN MOVIES 4K 2
+http://supaapp.xyz/live/462738737337/352672622626/319673.ts
+
+#EXTINF:-1 tvg-name="beIN MOVIES 4K 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN Entertainment",beIN MOVIES 4K 3
+http://supaapp.xyz/live/462738737337/352672622626/319674.ts
+
+#EXTINF:-1 tvg-name="beIN MOVIES 4K 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN Entertainment",beIN MOVIES 4K 4
+http://supaapp.xyz/live/462738737337/352672622626/319675.ts
+
+#EXTINF:-1 tvg-name="beIN SERIES 4K 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN Entertainment",beIN SERIES 4K 1
+http://supaapp.xyz/live/462738737337/352672622626/319676.ts
+
+#EXTINF:-1 tvg-name="beIN SERIES 4K 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN Entertainment",beIN SERIES 4K 2
+http://supaapp.xyz/live/462738737337/352672622626/319677.ts
+
+#EXTINF:-1 tvg-name="beIN Movies 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN Entertainment",beIN Movies 1 HD
+http://supaapp.xyz/live/462738737337/352672622626/319687.ts
+
+#EXTINF:-1 tvg-name="beIN Movies 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN Entertainment",beIN Movies 2 HD
+http://supaapp.xyz/live/462738737337/352672622626/319688.ts
+
+#EXTINF:-1 tvg-name="beIN Movies 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN Entertainment",beIN Movies 3 HD
+http://supaapp.xyz/live/462738737337/352672622626/319689.ts
+
+#EXTINF:-1 tvg-name="beIN Movies 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN Entertainment",beIN Movies 4 HD
+http://supaapp.xyz/live/462738737337/352672622626/319690.ts
+
+#EXTINF:-1 tvg-name="beIN Series 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN Entertainment",beIN Series 1 HD
+http://supaapp.xyz/live/462738737337/352672622626/319691.ts
+
+#EXTINF:-1 tvg-name="beIN Series 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN Entertainment",beIN Series 2 HD
+http://supaapp.xyz/live/462738737337/352672622626/319692.ts
+
